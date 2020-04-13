@@ -1,0 +1,776 @@
+# AdBlock for iOS DNS Proxy rules 
+# Get the app here: https://itunes.apple.com/us/app/adblock/id691121579
+# Use "Settings" -> "Import DNS rules" and import this file to the "0.0.0.0, ::" group
+# Last updated: 2020-04-13
+
+Chinese Adservers/A8/a8.com
+Chinese Adservers/A8/a8.net
+Chinese Adservers/Apple Daily/intowow.applefeed.com.tw
+Chinese Adservers/B-Media Asia/adex*.bmediaasia.com
+Chinese Adservers/Baidu/cb.baidu.com
+Chinese Adservers/Baidu/cbjs.baidu.com
+Chinese Adservers/Baidu/cpro.baidu.com
+Chinese Adservers/Baidu/drmcmm.baidu.com
+Chinese Adservers/Baidu/duiwai.baidu.com
+Chinese Adservers/Baidu/eiv.baidu.com
+Chinese Adservers/Baidu/hao123union.baidu.com
+Chinese Adservers/Baidu/iwanad.baidu.com
+Chinese Adservers/Baidu/jsmbaidu.com
+Chinese Adservers/Baidu/mobads.baidu.com
+Chinese Adservers/Baidu/pos.baidu.com
+Chinese Adservers/Baidu/spcode.baidu.com
+Chinese Adservers/Baidu/ubmcmm.baidustatic.com
+Chinese Adservers/Domob/domob.cn
+Chinese Adservers/Domob/domobcdn.com
+Chinese Adservers/ETtoday/ad.ettoday.net
+Chinese Adservers/Gigazine/gigazine.asia
+Chinese Adservers/Innity/innity.net
+Chinese Adservers/Networld/i.l.networld.hk
+Chinese Adservers/Spotad/spotad.cn
+Chinese Adservers/Tanx/tanx.com
+Chinese Adservers/Vpon/vpon.com
+Chinese Adservers/Yahoo CN/partnerads.ysm.yahoo.com
+Chinese Adservers/on.cc/ad*.on.cc
+Chinese Adservers/promotion.aliyun.com/promotion.aliyun.com
+
+Global Adservers/4chan Ads/4chan-ads.org
+Global Adservers/ADpartner/interseek.si
+Global Adservers/AOL Advertising/advertising.com
+Global Adservers/AOL Advertising/atwola.com
+Global Adservers/AVAI/cdn.media.amp.avai.com
+Global Adservers/AWEmpire/awempire.com
+Global Adservers/Accesstrade/accesstrade.net
+Global Adservers/Ad Center/ad-center.com
+Global Adservers/Ad-Sys/ad-sys.com
+Global Adservers/Ad-stir/ad-stir.com
+Global Adservers/Ad360/ad360.vn
+Global Adservers/Ad4Game/ad4game.com
+Global Adservers/AdBuddiz/adbuddiz.com
+Global Adservers/AdCash/adcash.com
+Global Adservers/AdColony/adcolony.com
+Global Adservers/AdDeals/adapi.addealsnetwork.com
+Global Adservers/AdExpert/adexprt.com
+Global Adservers/AdFalcon/adfalcon.com
+Global Adservers/AdFonic/adfonic.net
+Global Adservers/AdGear/adgear.com
+Global Adservers/AdHese/adhese.com
+Global Adservers/AdInch/adinch.com
+Global Adservers/AdInfuse/adinfuse.com
+Global Adservers/AdMaster/admaster.com.cn
+Global Adservers/AdMaster/admaster.net
+Global Adservers/AdMeasures/admeasures.com
+Global Adservers/AdMeasures/bnserving.com
+Global Adservers/AdMob/admob.com
+Global Adservers/AdNotch/adnotch.com
+Global Adservers/AdNow/ads*-adnow.com
+Global Adservers/AdSpeed/adspeed.com
+Global Adservers/AdSpirit/adspirit.de
+Global Adservers/AdTaily/adtaily.com
+Global Adservers/AdTech/adtech.de
+Global Adservers/AdTechus/adtechus.com
+Global Adservers/AdTilt/adtilt.com
+Global Adservers/AdToma/adtoma.com
+Global Adservers/AdTop/adtop.com
+Global Adservers/AdTrace/adtrace.org
+Global Adservers/Adap.tv/adap.tv
+Global Adservers/Adblade/adblade.com
+Global Adservers/Adbooth/adbooth.com
+Global Adservers/Adbooth/adbooth.net
+Global Adservers/AddThis/addthis.com
+Global Adservers/Adelva/adelva.com
+Global Adservers/Adform/adform.com
+Global Adservers/Adform/adform.net
+Global Adservers/Adform/adformdsp.net
+Global Adservers/Adition/adition.com
+Global Adservers/Adjuggler/adjuggler.net
+Global Adservers/Adkeeper/ackak.com
+Global Adservers/Adkeeper/adkeeper.com
+Global Adservers/Adkeeper/akncdn.com
+Global Adservers/Adman/adman.gr
+Global Adservers/Admarvel/admarvel.com
+Global Adservers/Admeta/admeta.com
+Global Adservers/Admeta/atemda.com
+Global Adservers/Admixer/admixer.net
+Global Adservers/Admobi/admobi.ru
+Global Adservers/Admobi/adver.mobi
+Global Adservers/Adnium/adnium.com
+Global Adservers/AdoTube/adotube.com
+Global Adservers/Adobe Marketing Cloud/207.net
+Global Adservers/Adobe Marketing Cloud/2o7.net
+Global Adservers/Adobe Marketing Cloud/omniture.com
+Global Adservers/Adorika/adorika.net
+Global Adservers/Adroll/adroll.com
+Global Adservers/Adrotator/adrotator.se
+Global Adservers/AdsFactor/adsfactor.net
+Global Adservers/AdsHost2/adshost2.com
+Global Adservers/AdsMogo/adsmogo.mobi
+Global Adservers/AdsMogo/adsmogo.net
+Global Adservers/AdsNative/adsnative.com
+Global Adservers/Adsterra Network/clickmngr.com
+Global Adservers/Adsterra Network/clickterra.net
+Global Adservers/Adsterra Network/terraclicks.com
+Global Adservers/Adsupply/4dsply.com
+Global Adservers/Adsupply/adsupply.com
+Global Adservers/Adtailor/adtailor.com
+Global Adservers/Adtima/adtimaserver.vn
+Global Adservers/Adversal/adnxs.com
+Global Adservers/Adversal/adversal.com
+Global Adservers/Adverserve/adverserve.net
+Global Adservers/AdvertServe/advertserve.com
+Global Adservers/Adverticum/adverticum.net
+Global Adservers/Advg/advg.jp
+Global Adservers/Advolution/advolution.de
+Global Adservers/Adwhirl/adwhirl.com
+Global Adservers/Adworx/ad.adworx.at
+Global Adservers/Adzerk/adzerk.com
+Global Adservers/Adzerk/adzerk.net
+Global Adservers/Adztec/adztec.com
+Global Adservers/Airpush/airpush.com
+Global Adservers/Altrooz/altrooz.com
+Global Adservers/Amaze/amazemobilemedia.com
+Global Adservers/Amazon Ads/amazon-adsystem.com
+Global Adservers/Amobee/amobee.com
+Global Adservers/AnimeLab/asp.animelab.com
+Global Adservers/AppLift/cdn.applift.com
+Global Adservers/Appflood/appflood.com
+Global Adservers/Applifier/applifier.com
+Global Adservers/Applovin/applovin.com
+Global Adservers/Appnext/appnext.com
+Global Adservers/Appodeal/appodeal.com
+Global Adservers/Apprupt/apprupt.com
+Global Adservers/Appsfire/yen.appsfire.net
+Global Adservers/Atedra/atedra.com
+Global Adservers/Atlas/atdmt.com
+Global Adservers/Atlas/atlassbx.com
+Global Adservers/AudienceScience/revsci.net
+Global Adservers/Avocarrot/avocarrot.com
+Global Adservers/BCFads/bcfads.com
+Global Adservers/BEBI/bebi.com
+Global Adservers/BannerFlow/bannerflow.com
+Global Adservers/Bead/bead-ad.com
+Global Adservers/Bidvertiser/bidvertiser.com
+Global Adservers/BlinkNewMedia/bnmla.com
+Global Adservers/Bounce Exchange/bounceexchange.com
+Global Adservers/Brightroll/brightroll.com
+Global Adservers/Brightroll/brightroll.de
+Global Adservers/Brightroll/btrll.com
+Global Adservers/BrokerBabe/delivery.brokerbabe.com
+Global Adservers/Burstly/appads.com
+Global Adservers/BuySellAds/buysellads.com
+Global Adservers/BuzzCity/buzzcity.net
+Global Adservers/C.A.S.T./castplatform.com
+Global Adservers/CPMstar/cpmstar.com
+Global Adservers/CarbonAds/carbonads.com
+Global Adservers/CarbonAds/carbonads.net
+Global Adservers/Chartboost/cb-cdn.com
+Global Adservers/Chartboost/chartboost.com
+Global Adservers/Chitika/chitika.net
+Global Adservers/ClickFuse/clickfuse.com
+Global Adservers/Cloud Ads/cloudads-a.akamaihd.net
+Global Adservers/Colombia/clmbtech.com
+Global Adservers/Content.ad/content.ad
+Global Adservers/Conversant/cj.com
+Global Adservers/Conversant/conversantmedia.com
+Global Adservers/Conversant/dotomi.com
+Global Adservers/Conversant/lduhtrp.net
+Global Adservers/Conversant/mediaplex.com
+Global Adservers/Criteo/criteo.com
+Global Adservers/Criteo/criteo.net
+Global Adservers/DirectRev/directrev.com
+Global Adservers/Distroscale/c.jsrdn.com
+Global Adservers/Dotandad/dotandad.com
+Global Adservers/DoubleClick/doubleclick.ne.jp
+Global Adservers/DoubleClick/doubleclick.net
+Global Adservers/DoubleClick/googleads.g.doubleclick.net
+Global Adservers/DoubleClick/pubads.g.doubleclick.net
+Global Adservers/DoubleVerify/doubleverify.com
+Global Adservers/Emediate/emediate.dk
+Global Adservers/Emediate/emediate.eu
+Global Adservers/Emediate/emediate.se
+Global Adservers/Epom Market/ecpmrocks.com
+Global Adservers/Epom Market/epom.com
+Global Adservers/Europacash/europacash.com
+Global Adservers/Exoclick/exoclick.com
+Global Adservers/ExoticAds/exoticads.com
+Global Adservers/Exponential/exponential.com
+Global Adservers/Fc2/affiliate.fc2.com
+Global Adservers/Fc2/aimg.fc2.com
+Global Adservers/FirstImpression/firstimpression.io
+Global Adservers/Flashtalking/flashtalking.com
+Global Adservers/Flipboard adserver/ad.flipboard.com
+Global Adservers/Flurry/flurry.com
+Global Adservers/Flymob/mobytrks.com
+Global Adservers/FreeWheel/fwmrm.net
+Global Adservers/Fyber/fyber.com
+Global Adservers/Fyber/sponsorpay.com
+Global Adservers/GZero/adserve.gzero.com
+Global Adservers/Gameloft/201205igp.gameloft.com
+Global Adservers/Gameloft/578756.gameloft.com
+Global Adservers/Gameloft/igp06.gameloft.com
+Global Adservers/Gameloft/igpiphone.gameloft.com
+Global Adservers/Gameloft/ingameads.gameloft.com
+Global Adservers/Google AdSense/googleadservices.com
+Global Adservers/Google AdSense/googletagservices.com
+Global Adservers/Google AdSense/pagead.googlesyndication.com
+Global Adservers/Google AdSense/pagead1.googlesyndication.com
+Global Adservers/Google AdSense/pagead2.googlesyndication.com
+Global Adservers/Google AdSense/pagead3.googlesyndication.com
+Global Adservers/Greystripe/greystripe.com
+Global Adservers/GumGum/gumgum.com
+Global Adservers/Gunggo/drnxs.com
+Global Adservers/HOTWords/hotwords.com
+Global Adservers/Heroku/user-agent-tracker.herokuapp.com
+Global Adservers/Heyzap/heyzap.com
+Global Adservers/Holder/holder.com.ua
+Global Adservers/Hot-mob/hot-mob.com
+Global Adservers/Hulu+/ads-a-darwin.hulu.com
+Global Adservers/Hulu+/ads-v-darwin.hulu.com
+Global Adservers/Hulu+/ads.hulu.com
+Global Adservers/Hulu+/a.huluad.com
+Global Adservers/IconPeak/iconpeak.com
+Global Adservers/Improve Digital/360yield.com
+Global Adservers/InMobi/appsdt.com
+Global Adservers/InMobi/inmobi.com
+Global Adservers/InMobi/inmobicdn.com
+Global Adservers/InMobi/inmobicdn.net
+Global Adservers/Inner Active/inner-active.mobi
+Global Adservers/Innovid/innovid.com
+Global Adservers/Integral Marketing/integral-marketing.com
+Global Adservers/Intermarkets/intermarkets.net
+Global Adservers/Jeux Video/wbdds.jeuxvideo.com
+Global Adservers/JuicyAds/juicyads.com
+Global Adservers/JumpTap/a.jumptap.com
+Global Adservers/Kauli/kau.li
+Global Adservers/Ketchapp/ketchapp.org
+Global Adservers/Kiip/kiip.me
+Global Adservers/Kimia/kimia.es
+Global Adservers/Kixer/kixer.com
+Global Adservers/Kochava/kochava.com
+Global Adservers/Leadbolt/appserver-ap.com
+Global Adservers/Leadbolt/leadbolt.com
+Global Adservers/Leadbolt/leadbolt.net
+Global Adservers/Leadbolt/leadboltapps.net
+Global Adservers/LifeStreet Media/lfstmedia.com
+Global Adservers/Liftoff/liftoff.io
+Global Adservers/Ligatus/ligatus.com
+Global Adservers/Lijit/lijit.com
+Global Adservers/LiveIntent/liveintent.com
+Global Adservers/Liverail/liverail.com
+Global Adservers/LockerDome/lockerdome.com
+Global Adservers/Lotame/crwdcntrl.net
+Global Adservers/M.T.Burn/mtburn.com
+Global Adservers/MGID/mgid.com
+Global Adservers/MOcean/mocean.mobi
+Global Adservers/MP Newmedia/mpnrs.com
+Global Adservers/Mads/mads.com
+Global Adservers/Mads/madsone.com
+Global Adservers/Madvertise/madvertise.de
+Global Adservers/Madvertise/uimserv.net
+Global Adservers/Magic Puzzles/opt.ximad.com
+Global Adservers/MajorGeeks/ox-d.majorgeeks.com
+Global Adservers/MarsAds/marsads.com
+Global Adservers/Matomy/ad120m.com
+Global Adservers/Matomy/ad127m.com
+Global Adservers/Matomy/ad131m.com
+Global Adservers/Matomy/ad132m.com
+Global Adservers/Matomy/adsmarket.com
+Global Adservers/Matomy/m2pub.com
+Global Adservers/Matomy/xtendmedia.com
+Global Adservers/MdotM/mdotm.com
+Global Adservers/MediaMind/eyewonder.com
+Global Adservers/MediaMind/serving-sys.com
+Global Adservers/MediaMind/smartclip.net
+Global Adservers/MediaMixAD(korean)/theprimead.co.kr
+Global Adservers/MediaMixAD(korean)/imadrep.co.kr
+Global Adservers/MediaMixAD(korean)/realssp.co.kr
+Global Adservers/MediaMixAD(korean)/mediamixad.com
+Global Adservers/MediaMixAD(korean)/cauly.co.kr
+Global Adservers/MediaMixAD(korean)/ad4989.co.kr
+Global Adservers/MediaMixAD(korean)/adapi.about.co.kr
+Global Adservers/MediaMixAD(korean)/tpmn.co.kr
+Global Adservers/MediaMixAD(korean)/ad.about.co.kr
+Global Adservers/Medialets/medialets.com
+Global Adservers/Medialets/medialytics.com
+Global Adservers/Mellow Ads/mellowads.com
+Global Adservers/Microsoft Network/h2.msn.com
+Global Adservers/Microsoft Network/rad.msn.com
+Global Adservers/Microsoft Network/stjjp.msn.com
+Global Adservers/Microsoft Network/udc.msn.com
+Global Adservers/Millennial Media/cdn.millennialmedia.com
+Global Adservers/Millennial Media/mydas.mobi
+Global Adservers/Millward Brown Digital/insightexpressai.com
+Global Adservers/Millward Brown Digital/questionmarket.com
+Global Adservers/Mister Bell/misterbell.com
+Global Adservers/Moat/moatads.com
+Global Adservers/MobFox/mobfox.com
+Global Adservers/Mobclicx/mobclix.com
+Global Adservers/Mobile Theory/mobiletheory.com
+Global Adservers/MobileFuse/mobilefuse.com
+Global Adservers/MobileFuse/mobilefuse.net
+Global Adservers/Mobiright/mobiright.com
+Global Adservers/Mojiva/mojiva.com
+Global Adservers/Mopub/mopub.com
+Global Adservers/NativeX/appclick.co
+Global Adservers/NativeX/nativex-sdk.appspot.com
+Global Adservers/Nexage/nexage.com
+Global Adservers/OVA/openvideoads.com
+Global Adservers/OVA/openvideoads.org
+Global Adservers/OpenX/openx.com
+Global Adservers/OpenX/openx.jp
+Global Adservers/OpenX/openx.net
+Global Adservers/OpenX/openx.org
+Global Adservers/OpenX/openxenterprise.com
+Global Adservers/OpenX/openxmarket.jp
+Global Adservers/OpenX/servedbyopenx.com
+Global Adservers/OpenX/uauniverse.com
+Global Adservers/Openclick/openclick.com
+Global Adservers/OtherLevels/otherlevels.com
+Global Adservers/Outbrain/outbrain.com
+Global Adservers/Outbrain/visualrevenue.com
+Global Adservers/PIXELS/pixels.asia
+Global Adservers/PIXELS/snapmobile.asia
+Global Adservers/PLYmedia/adk2.co
+Global Adservers/PLYmedia/adk2x.com
+Global Adservers/PLYmedia/adpdx.com
+Global Adservers/Phg/performancehorizon.com
+Global Adservers/PlayHaven/playhaven.com
+Global Adservers/Playnomics/playnomics.net
+Global Adservers/Pontifex/pflexads.com
+Global Adservers/PopAds/popads.net
+Global Adservers/PopAds/popadscdn.net
+Global Adservers/Project Wonderful/projectwonderful.com
+Global Adservers/Propeller Ads/mobtrks.com
+Global Adservers/Propeller Ads/onclasrv.com
+Global Adservers/Propeller Ads/onclickads.net
+Global Adservers/Propeller Ads/onclkds.com
+Global Adservers/Propeller Ads/propellerads.com
+Global Adservers/Propeller Ads/propellerpops.com
+Global Adservers/Propeller Ads/traffpartners.com
+Global Adservers/PubMatic/pubmatic.com
+Global Adservers/PubNative/pubnative.net
+Global Adservers/Quantcast/quantcount.com
+Global Adservers/Reddit/engine.a.redditmedia.com
+Global Adservers/RedirectNative/redirectnative.com
+Global Adservers/Reklamport/reklamport.com
+Global Adservers/Reporo/reporo.net
+Global Adservers/RevContent/revcontent.com
+Global Adservers/RevenueHits/clk1004.com
+Global Adservers/RevenueHits/clkdeals.com
+Global Adservers/RevenueHits/clkmon.com
+Global Adservers/RevenueHits/clkrev.com
+Global Adservers/RevenueHits/eclkmpsa.com
+Global Adservers/Revmob/revmob.com
+Global Adservers/RightMedia/yieldmanager.com
+Global Adservers/Rubicon Project/chango.com
+Global Adservers/Rubicon Project/rubiconproject.com
+Global Adservers/Rythm NewMedia/rnmd.net
+Global Adservers/SAS/aimatch.com
+Global Adservers/Sekindo/sekindo.com
+Global Adservers/ShareResults/eacdn.com
+Global Adservers/Sharethrough/sharethrough.com
+Global Adservers/Sign Board Shop/sbs-ad.com
+Global Adservers/Smaato/smaato.com
+Global Adservers/Smaato/smaato.net
+Global Adservers/SmartAdServer/smartadserver.com
+Global Adservers/SpeedyAds/sa.entireweb.com
+Global Adservers/Spiegel Online/damoh.spiegel.de
+Global Adservers/Spiroox Performance Agency/brucelead.com
+Global Adservers/StartApp/startapp.com
+Global Adservers/StartApp/startappexchange.com
+Global Adservers/StartApp/startappservice.com
+Global Adservers/Supersonic/supersonicads.com
+Global Adservers/Supersonic/ultraadserver.com
+Global Adservers/Swrve/swrve.com
+Global Adservers/TabTale houseads/appshelf.ttpsdk.info
+Global Adservers/TabTale houseads/houseads.ttpsdk.info
+Global Adservers/Taboola/taboola.com
+Global Adservers/Taboola/taboolasyndication.com
+Global Adservers/TapJoyAds/tapjoy.com
+Global Adservers/TapJoyAds/tapjoyads.com
+Global Adservers/Teads/teads.tv
+Global Adservers/Techorus/image.click.livedoor.com
+Global Adservers/Techorus/trafficgate.net
+Global Adservers/The DECK/connect.decknetwork.net
+Global Adservers/The Yeshiva World News/print.theyeshivaworld.info
+Global Adservers/Tradedoubler/tradedoubler.com
+Global Adservers/TrafMag/trafmag.com
+Global Adservers/Traffic Posse/trafficposse.com
+Global Adservers/TrafficFactory/trafficfactory.biz
+Global Adservers/TrafficForce/delivery.trafficforce.com
+Global Adservers/TrafficJunky/trafficjunky.com
+Global Adservers/TrafficJunky/trafficjunky.net
+Global Adservers/Traffichaus/globaltraffico.com
+Global Adservers/Traffichaus/traffichaus.com
+Global Adservers/Traforet/rarenok.biz
+Global Adservers/Transpera/transpera.com
+Global Adservers/Tremor/tremorhub.com
+Global Adservers/Tremor Video/scanscout.com
+Global Adservers/Tremor Video/tremormedia.com
+Global Adservers/Tribalfusion/tribalfusion.com
+Global Adservers/Triton Digital/andomedia.com
+Global Adservers/Turn/turn.com
+Global Adservers/UC Web/ucweb.com
+Global Adservers/United Online/untd.com
+Global Adservers/Unity3D/unityads.unity3d.com
+Global Adservers/Unknown providers/1phads.com
+Global Adservers/Unknown providers/admngronline.com
+Global Adservers/Unknown providers/admtpmp123.com
+Global Adservers/Unknown providers/admtpmp124.com
+Global Adservers/Unknown providers/admtpmp127.com
+Global Adservers/Unknown providers/everestads.net
+Global Adservers/Unknown providers/movi11.com
+Global Adservers/Unknown providers/msads.net
+Global Adservers/Unknown providers/padsdel.com
+Global Adservers/Unknown providers/pushnative.com
+Global Adservers/Unknown providers/readserver.net
+Global Adservers/Unknown providers/redintelligence.net
+Global Adservers/Unknown providers/redtram.com
+Global Adservers/Unknown providers/rtbpop.com
+Global Adservers/Unknown providers/s1.2mdn.net
+Global Adservers/Upsight/upsight-api.com
+Global Adservers/Value Commerce/valuecommerce.com
+Global Adservers/Valueclick/fastclick.net
+Global Adservers/Vdopia/vdopia.com
+Global Adservers/Verve/adcel.vrvm.com
+Global Adservers/Vibrant Media/intellitxt.com
+Global Adservers/Videoplaza/videoplaza.com
+Global Adservers/Videoplaza/videoplaza.tv
+Global Adservers/Vserv/vserv.mobi
+Global Adservers/Vungle/vungle.com
+Global Adservers/WWWPromoter/wwwpromoter.com
+Global Adservers/WafMedia/wafmedia3.com
+Global Adservers/WafMedia/wafmedia5.com
+Global Adservers/WideSpace/widespace.com
+Global Adservers/Wigetmedia/wigetmedia.com
+Global Adservers/Woobi/tokenads.com
+Global Adservers/Woobi/woobi.com
+Global Adservers/YOC/yoc.mobi
+Global Adservers/Yahoo/ads.yahoo.com
+Global Adservers/Yahoo/adserver.yahoo.com
+Global Adservers/Yahoo/beap-bc.yahoo.com
+Global Adservers/Yahoo/gemini.yahoo.com
+Global Adservers/Yahoo/soundwave.mobile.yahoo.com
+Global Adservers/Yieldmo/yieldmo.com
+Global Adservers/YuMe/yumenetworks.com
+Global Adservers/Zedo/zedo.com
+Global Adservers/Zeptolab/bms.zeptolab.com
+Global Adservers/Zeptolab/crosspromo.zeptolab.com
+Global Adservers/Zestads/leadzu.com
+Global Adservers/Zestads/zestads.com
+Global Adservers/Zestads/zestadz.com
+Global Adservers/Zumobi/zumobi.com
+Global Adservers/Zwaar/zwaar.org
+Global Adservers/aastocks/hkg1.aastocks.com
+Global Adservers/ad.prismamediadigital.com/ad.prismamediadigital.com
+Global Adservers/adACTs/ketads.com
+Global Adservers/adMOST/admost.com
+Global Adservers/adadvisor.net/adadvisor.net
+Global Adservers/adglare.net/adglare.net
+Global Adservers/admicro.vn/admicro.vn
+Global Adservers/adnetworkperformance.com/adnetworkperformance.com
+Global Adservers/ads.bhol.co.il/ads.bhol.co.il
+Global Adservers/ads.ontarget.mobi/ads.ontarget.mobi
+Global Adservers/adserver.mgsex.com/adserver.mgsex.com
+Global Adservers/adsinstant.com/adsinstant.com
+Global Adservers/adspending01.bwnet.com.tw/adspending01.bwnet.com.tw
+Global Adservers/adsrocket.net/adsrocket.net
+Global Adservers/adsrvr.org/adsrvr.org
+Global Adservers/adsymptotic.com/adsymptotic.com
+Global Adservers/adtaxi/adtaxinetworks.com
+Global Adservers/adv.aftonbladet.se/adv.aftonbladet.se
+Global Adservers/alea.adam.daum.net/alea.adam.daum.net
+Global Adservers/billytesting.com/billytesting.com
+Global Adservers/cold-cold-freezing.com/cold-cold-freezing.com
+Global Adservers/content-ad.net/content-ad.net
+Global Adservers/contentabc.com/contentabc.com
+Global Adservers/de17a.com/de17a.com
+Global Adservers/detikcom/n208adserv.com
+Global Adservers/dlski.space/dlski.space
+Global Adservers/e-planning.net/e-planning.net
+Global Adservers/eXelator/exelator.com
+Global Adservers/eclick.vn/eclick.vn
+Global Adservers/ftv-publicite/ad2play.ftv-publicite.fr
+Global Adservers/fus.walla.co.il/fus.walla.co.il
+Global Adservers/fus.yad2.co.il/fus.yad2.co.il
+Global Adservers/i-stream.pl/i-stream.pl
+Global Adservers/iBILLBOARD/bbelements.com
+Global Adservers/imedia.cz/imedia.cz
+Global Adservers/info.a7.org/info.a7.org
+Global Adservers/infolinks/infolinks.com
+Global Adservers/liveadexchanger.com/liveadexchanger.com
+Global Adservers/manage/manage.com
+Global Adservers/media-rep.com/media-rep.com
+Global Adservers/media.net/keywordblocks.com
+Global Adservers/media.net/media.net
+Global Adservers/medyanetads.com/medyanetads.com
+Global Adservers/mng-ads.com/mng-ads.com
+Global Adservers/mob-server.com/mob-server.com
+Global Adservers/mobusi/mobusi.com
+Global Adservers/mov.ad/movad.de
+Global Adservers/nspmotion.com/nspmotion.com
+Global Adservers/nugg.ad/nuggad.net
+Global Adservers/ox-d.advanceweb.com/ox-d.advanceweb.com
+Global Adservers/plista/plista.com
+Global Adservers/pubdirecte.com/pubdirecte.com
+Global Adservers/revenue.com/revenue.com
+Global Adservers/spotscenered.info/spotscenered.info
+Global Adservers/tradeadexchange.com/tradeadexchange.com
+Global Adservers/vcmedia.vn/vcmedia.vn
+Global Adservers/veeseo/veeseo.com
+Global Adservers/yieldlab.net/yieldlab.net
+Global Adservers/ziiporn.com/ziiporn.com
+
+Japanese Adservers/AD convenience/adcv.jp
+Japanese Adservers/Ad-cloud/ad-cloud.jp
+Japanese Adservers/Ad-cloud/adcloud.jp
+Japanese Adservers/Ad-cloud/webtracker.jp
+Japanese Adservers/Ad-move/ad-move.jp
+Japanese Adservers/Ad-v/ad-v.jp
+Japanese Adservers/Adingo/adingo.jp
+Japanese Adservers/Adingo/fluct.jp
+Japanese Adservers/Adjust-net/adjust-net.jp
+Japanese Adservers/Adjust-sp/adjust-sp.jp
+Japanese Adservers/Adlantis/adlantis.jp
+Japanese Adservers/Adresult-sp/adresult-sp.jp
+Japanese Adservers/Adways/smart-c.jp
+Japanese Adservers/Aid-ad/aid-ad.jp
+Japanese Adservers/Alt Plus/exit-ad.com
+Japanese Adservers/Ameba/ad.pr.ameba.jp
+Japanese Adservers/Ameba/spstaticimg.ameba.jp
+Japanese Adservers/Amoad/amoad.com
+Japanese Adservers/App-AdForce/app-adforce.jp
+Japanese Adservers/App-C/app-c.net
+Japanese Adservers/Atech inc./atech.ne.jp
+Japanese Adservers/Behaviad/behaviad.net
+Japanese Adservers/Buzzurl/buzzurl.jp
+Japanese Adservers/Bypass/bypass.jp
+Japanese Adservers/CasuALT/altnet.jp
+Japanese Adservers/Consearch/consearch.jp
+Japanese Adservers/Cyberwing/cyberwing.co.jp
+Japanese Adservers/D2c/d2c.ne.jp
+Japanese Adservers/DoprAds/doprads.jp
+Japanese Adservers/Fancrew/fancrew.jp
+Japanese Adservers/Forest page/fm-p.jp
+Japanese Adservers/FreakOut/fout.jp
+Japanese Adservers/Fringe81/bnr.rssad.jp
+Japanese Adservers/GMO SSP/gmossp-sp.jp
+Japanese Adservers/Geniee/genieesspv.jp
+Japanese Adservers/Geniee/gsspat.jp
+Japanese Adservers/Geniee/gssprt.jp
+Japanese Adservers/Glossom/adimg.net
+Japanese Adservers/Glossom/glossom.co.jp
+Japanese Adservers/Goo/ad.goo.ne.jp
+Japanese Adservers/Goo/adcdn.goo.ne.jp
+Japanese Adservers/Goo/owb101.goo.ne.jp
+Japanese Adservers/Guile/guile.jp
+Japanese Adservers/Gunosy/ad.gunosy.com
+Japanese Adservers/Gunosy/adapi.gunosy.com
+Japanese Adservers/Gunosy/adntokyo.gunosy.com
+Japanese Adservers/I-Mobile/i-mobile.co.jp
+Japanese Adservers/I2I/i2i.jp
+Japanese Adservers/ITmedia/dlv.itmedia.co.jp
+Japanese Adservers/ITmedia/fc.itmedia.co.jp
+Japanese Adservers/ITmedia/tb.itmedia.co.jp
+Japanese Adservers/Ichi-ni-san/ichi-ni-san.net
+Japanese Adservers/Impact-ad/impact-ad.jp
+Japanese Adservers/InMobi JP/inmobi-jp.com
+Japanese Adservers/LINE Business Partners/jlisting.jp
+Japanese Adservers/Livead/livead.jp
+Japanese Adservers/Logly/logly.co.jp
+Japanese Adservers/Logly/newzia.jp
+Japanese Adservers/Maist/maist.jp
+Japanese Adservers/Mb-click/mb-click.jp
+Japanese Adservers/Mediabox/media-b.jp
+Japanese Adservers/Mediba Ad/mediba.jp
+Japanese Adservers/Mediba Ad/medibaad.com
+Japanese Adservers/Microad/microad.jp
+Japanese Adservers/Microad/microad.net
+Japanese Adservers/Microsoft Network JP/ads1.jp.msn.com
+Japanese Adservers/Microsoft Network JP/advertising.jp.msn.com
+Japanese Adservers/Microsoft Network JP/c.jp.msn.com
+Japanese Adservers/Microsoft Network JP/utm.sankei.jp.msn.com
+Japanese Adservers/Mist/ad.mist.jp
+Japanese Adservers/Mixi/mixi.co.jp
+Japanese Adservers/Mixi/mreco0.jp
+Japanese Adservers/Mucu/mucu.jp
+Japanese Adservers/Nend/nend.net
+Japanese Adservers/Niconico/ads.nicovideo.jp
+Japanese Adservers/San-ni-ichi/san-ni-ichi.com
+Japanese Adservers/ScaleOut/socdm.com
+Japanese Adservers/SmaAD/smaad.jp
+Japanese Adservers/Trax Ad/trax-ad.jp
+Japanese Adservers/United Blades/unitedblades.co.jp
+Japanese Adservers/Unthem/unthem.com
+Japanese Adservers/Yahoo JP/aag.yahooapis.jp
+Japanese Adservers/Yahoo JP/ah.yimg.jp
+Japanese Adservers/Yahoo JP/ard.yahoo.co.jp
+Japanese Adservers/Yahoo JP/b92.yahoo.co.jp
+Japanese Adservers/Yahoo JP/b97.yahoo.co.jp
+Japanese Adservers/Yahoo JP/bc.geocities.yahoo.co.jp
+Japanese Adservers/Yahoo JP/feedback.promotionalads.yahoo.co.jp
+Japanese Adservers/Yahoo JP/im.c.yimg.jp
+Japanese Adservers/Yahoo JP/listing.yahoo.co.jp
+Japanese Adservers/Yahoo JP/ov.yahoo.co.jp
+Japanese Adservers/Yahoo JP/rd.ane.yahoo.co.jp
+Japanese Adservers/Yahoo JP/smartads.mobile.yahoo.co.jp
+Japanese Adservers/Yahoo JP/yad.yahoo.co.jp
+Japanese Adservers/Yahoo JP/yads.c.yimg.jp
+Japanese Adservers/Yahoo JP/yads.yahoo.co.jp
+Japanese Adservers/Yahoo JP/yads.yjtag.yahoo.co.jp
+Japanese Adservers/Yahoo JP/yeas.yahoo.co.jp
+Japanese Adservers/Yicha/yicha.jp
+Japanese Adservers/Zucks/zucks.co.jp
+Japanese Adservers/Zucks/zucks.net
+Japanese Adservers/adInte/adinte.jp
+Japanese Adservers/adresult.jp/adresult.jp
+Japanese Adservers/astrsk.net/astrsk.net
+Japanese Adservers/cdn.caprofitx.com/cdn.caprofitx.com
+Japanese Adservers/dynalyst.jp/dynalyst.jp
+Japanese Adservers/fam-ad.com/fam-ad.com
+Japanese Adservers/imobile.jp/imobile.jp
+Japanese Adservers/nex8/nex8.net
+Japanese Adservers/online-dn.com/online-dn.com
+Japanese Adservers/premium.2ch.net/premium.2ch.net
+Japanese Adservers/sora+AD/soraad.jp
+Japanese Adservers/sprout!/sprout-ad.com
+Japanese Adservers/zimg.jp/zimg.jp
+
+Polish Adservers/AdTotal/adtotal.pl
+Polish Adservers/AdView/adview.pl
+Polish Adservers/Adkontekst/adkontekst.pl
+Polish Adservers/Clickonometrics/clickonometrics.pl
+Polish Adservers/Nextclick/nextclick.pl
+Polish Adservers/Onet.pl Adserver/csr.onet.pl
+Polish Adservers/Vendimob/vendimob.pl
+Polish Adservers/WP.pl Adserver/adv.wp.pl
+Polish Adservers/WP.pl Adserver/rek.www.wp.pl
+Polish Adservers/Yanosik App/mobi.yanosik.pl
+Polish Adservers/contentstream/contentstream.pl
+Polish Adservers/Adocean/adocean.pl
+Polish Adservers/AdTaily/adtaily.pl
+
+
+Russian Adservers/24s.ru/24s.ru
+Russian Adservers/AD1/ad1.ru
+Russian Adservers/ADBN/adbn.ru
+Russian Adservers/ActionTeaser/actionteaser.ru
+Russian Adservers/Actionpay/actionpay.ru
+Russian Adservers/AdCast/adcast.ru
+Russian Adservers/AdComplete/adcomplete.ru
+Russian Adservers/AdFlow/addflow.ru
+Russian Adservers/AdFlow2/adflow.ru
+Russian Adservers/AdFog/adfog.ru
+Russian Adservers/AdFox/adfox.ru
+Russian Adservers/AdHands/adhands.ru
+Russian Adservers/AdHub/adhub.ru
+Russian Adservers/AdMulti/admulti.ru
+Russian Adservers/AdName/adname.ru
+Russian Adservers/AdPix/adpix.ru
+Russian Adservers/AdPro/adpro.com.ua
+Russian Adservers/AdRock/adrock.com.ua
+Russian Adservers/AdRock/adrock.ru
+Russian Adservers/AdRock/adrock.ua
+Russian Adservers/AdSelector/adselector.ru
+Russian Adservers/AdSellers/adsellers.net
+Russian Adservers/AdSniper/adsniper.ru
+Russian Adservers/AdStark/adstark.ru
+Russian Adservers/AdTeaser/adteaser.ru
+Russian Adservers/AdTime/adtime.ru
+Russian Adservers/AdTraff/adtraff.ru
+Russian Adservers/Adbomb/adbomb.ru
+Russian Adservers/Addisp/addisp.com
+Russian Adservers/Addnow/addnow.ru
+Russian Adservers/Adizer/adizer.ru
+Russian Adservers/Adlabs/Media/luxup.ru
+Russian Adservers/Adriver/adriver.ru
+Russian Adservers/Adru/adru.net
+Russian Adservers/AdsClick/adsclick.ru
+Russian Adservers/Advaction/advaction.ru
+Russian Adservers/AdvanceTS/advancets.org
+Russian Adservers/AdvertBox/advertbox.ru
+Russian Adservers/AdvertPay/advertpay.ru
+Russian Adservers/AdvertStar/advertstar.net
+Russian Adservers/Advmaker/am15.net
+Russian Adservers/Adwad/adwad.ru
+Russian Adservers/Adwise/adservone.com
+Russian Adservers/Adwise/psma01.com
+Russian Adservers/Adwise/psma02.com
+Russian Adservers/Adwise/psma03.com
+Russian Adservers/BannerBank/bannerbank.ru
+Russian Adservers/Begun/begun.ru
+Russian Adservers/BodyClick/bodyclick.net
+Russian Adservers/BodyClick/gredinatib.info
+Russian Adservers/BubblesMedia/bubblesmedia.ru
+Russian Adservers/CityAds/cityads.ru
+Russian Adservers/DT00/mg.dt00.net
+Russian Adservers/Direct-ADVERT/directadvert.net
+Russian Adservers/Direct-ADVERT/directadvert.ru
+Russian Adservers/EasyAds/easyads.bg
+Russian Adservers/GoodAdvert/goodadvert.com.ua
+Russian Adservers/Kadam/kadam.net
+Russian Adservers/LadyCash/ladycash.ru
+Russian Adservers/Lcads/lcads.ru
+Russian Adservers/LeadGid/leadgid.ru
+Russian Adservers/Lentainform/lentainform.com
+Russian Adservers/LiveSmi/livesmi.com
+Russian Adservers/MD Digital/myragon.ru
+Russian Adservers/MarketGid/marketgid.com
+Russian Adservers/Medialand/adland.ru
+Russian Adservers/Medialand/medialand.ru
+Russian Adservers/MobiAds/ma-static.ru
+Russian Adservers/MobiAds/mobiads.ru
+Russian Adservers/MobiOffers/mobioffers.ru
+Russian Adservers/Mobileader/mobileader.ru
+Russian Adservers/Neoban/neoban.su
+Russian Adservers/Pay-Click/pay-click.ru
+Russian Adservers/Pingmedia.ru/pingmedia.ru
+Russian Adservers/ProfiWizard/profitwizard.ru
+Russian Adservers/Recreative/recreativ.ru
+Russian Adservers/RedClick/redclick.ru
+Russian Adservers/RotaBan/rotaban.ru
+Russian Adservers/S5block/block.s5block.com
+Russian Adservers/SalesDoubler/salesdoubler.com.ua
+Russian Adservers/Seopult/seopult.ru
+Russian Adservers/TeaserNet/nyyed.com
+Russian Adservers/TeaserNet/teasernet.com
+Russian Adservers/TeaserNet/yluvo.com
+Russian Adservers/Userator/addweb.ru
+Russian Adservers/Userator/userator.ru
+Russian Adservers/VisitWeb/c.yjvfuzdr.pw
+Russian Adservers/VisitWeb/v.vsimasd.pw
+Russian Adservers/VisitWeb/visitweb.com
+Russian Adservers/VkMonster/vkmonster.com
+Russian Adservers/Wmip/wmip.ru
+Russian Adservers/Yandex/an.yandex.ru
+Russian Adservers/Yandex/awaps.yandex.ru
+Russian Adservers/Yandex/mobile.yandexadexchange.net
+Russian Adservers/actionADS/actionads.ru
+Russian Adservers/adPremium/adpremium.ru
+Russian Adservers/adbouc.com/adbouc.com
+Russian Adservers/admitad/admitad.com
+Russian Adservers/bdzhhjnml.pw/bdzhhjnml.pw
+Russian Adservers/byzgoso.ru/byzgoso.ru
+Russian Adservers/cszz.ru/cszz.ru
+Russian Adservers/et-code.ru/et-code.ru
+Russian Adservers/gdeslon.ru/gdeslon.ru
+Russian Adservers/hghit.com/hghit.com
+Russian Adservers/kibirata.ru/kibirata.ru
+Russian Adservers/kma.biz/kma.biz
+Russian Adservers/leads.su/leads.su
+Russian Adservers/leadtrade.su/leadtrade.su
+Russian Adservers/m1-shop.ru/m1-shop.ru
+Russian Adservers/mbn.su/mbn.su
+Russian Adservers/medianetworks.ru/medianetworks.ru
+Russian Adservers/mradx.net/r0.mradx.net
+Russian Adservers/myTarget/ad.mail.ru
+Russian Adservers/myTarget/r0.mail.ru
+Russian Adservers/nClick/nclick.org
+Russian Adservers/nClick/nclick.ru
+Russian Adservers/novostimira.biz/novostimira.biz
+Russian Adservers/onedmp.com/onedmp.com
+Russian Adservers/pc2ads.ru/pc2ads.ru
+Russian Adservers/re-directme.com/re-directme.com
+Russian Adservers/seed.by/seed.by
+Russian Adservers/smartadserver.ru/smartadserver.ru
+Russian Adservers/tTARGET/ttarget.ru
+Russian Adservers/yadro.ru/yadro.ru
