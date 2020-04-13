@@ -135,6 +135,7 @@ Global Adservers/AppLift/cdn.applift.com
 Global Adservers/Appflood/appflood.com
 Global Adservers/Applifier/applifier.com
 Global Adservers/Applovin/applovin.com
+Global Adservers/Applovin/applvn.com
 Global Adservers/Appnext/appnext.com
 Global Adservers/Appodeal/appodeal.com
 Global Adservers/Apprupt/apprupt.com
@@ -774,3 +775,7 @@ Russian Adservers/seed.by/seed.by
 Russian Adservers/smartadserver.ru/smartadserver.ru
 Russian Adservers/tTARGET/ttarget.ru
 Russian Adservers/yadro.ru/yadro.ru
+
+Misc and tracking/Adjust.com/*.adjust.com
+Misc and tracking/Branch.io/*.branch.io
+Misc and tracking/ScorecardResearch/*.scorecardresearch.com
