@@ -186,8 +186,6 @@ Global Adservers/Distroscale/c.jsrdn.com
 Global Adservers/Dotandad/dotandad.com
 Global Adservers/DoubleClick/doubleclick.ne.jp
 Global Adservers/DoubleClick/doubleclick.net
-Global Adservers/DoubleClick/googleads.g.doubleclick.net
-Global Adservers/DoubleClick/pubads.g.doubleclick.net
 Global Adservers/DoubleVerify/doubleverify.com
 Global Adservers/Emediate/emediate.dk
 Global Adservers/Emediate/emediate.eu
@@ -216,10 +214,7 @@ Global Adservers/Gameloft/igpiphone.gameloft.com
 Global Adservers/Gameloft/ingameads.gameloft.com
 Global Adservers/Google AdSense/googleadservices.com
 Global Adservers/Google AdSense/googletagservices.com
-Global Adservers/Google AdSense/pagead.googlesyndication.com
-Global Adservers/Google AdSense/pagead1.googlesyndication.com
-Global Adservers/Google AdSense/pagead2.googlesyndication.com
-Global Adservers/Google AdSense/pagead3.googlesyndication.com
+Global Adservers/Google AdSense/googlesyndication.com
 Global Adservers/Greystripe/greystripe.com
 Global Adservers/GumGum/gumgum.com
 Global Adservers/Gunggo/drnxs.com
