@@ -1,7 +1,7 @@
 # AdBlock for iOS DNS Proxy rules 
 # Get the app here: https://itunes.apple.com/us/app/adblock/id691121579
 # Use "Settings" -> "Import DNS rules" and import this file to the "0.0.0.0, ::" group
-# Last updated: 2020-04-13
+# Last updated: 2020-12-09
 
 Chinese Adservers/A8/a8.com
 Chinese Adservers/A8/a8.net
@@ -34,6 +34,8 @@ Chinese Adservers/on.cc/ad*.on.cc
 Chinese Adservers/promotion.aliyun.com/promotion.aliyun.com
 
 Global Adservers/4chan Ads/4chan-ads.org
+Global Adservers/33Across/33across.com
+Global Adservers/33Across/tynt.com
 Global Adservers/a-mo.net/a-mo.net
 Global Adservers/ADpartner/interseek.si
 Global Adservers/AOL Advertising/advertising.com
@@ -82,6 +84,7 @@ Global Adservers/Adblade/adblade.com
 Global Adservers/Adbooth/adbooth.com
 Global Adservers/Adbooth/adbooth.net
 Global Adservers/AddThis/addthis.com
+Global Adservers/AddThis/addthisedge.com
 Global Adservers/Adelva/adelva.com
 Global Adservers/Adform/adform.com
 Global Adservers/Adform/adform.net
@@ -103,6 +106,7 @@ Global Adservers/AdoTube/adotube.com
 Global Adservers/Adobe Marketing Cloud/207.net
 Global Adservers/Adobe Marketing Cloud/2o7.net
 Global Adservers/Adobe Marketing Cloud/omniture.com
+Global Adservers/Adobe Marketing Cloud/omtrdc.net
 Global Adservers/Adorika/adorika.net
 Global Adservers/Adroll/adroll.com
 Global Adservers/Adrotator/adrotator.se
@@ -118,7 +122,8 @@ Global Adservers/Adsupply/4dsply.com
 Global Adservers/Adsupply/adsupply.com
 Global Adservers/Adtailor/adtailor.com
 Global Adservers/Adtima/adtimaserver.vn
-Global Adservers/Adversal/adnxs.com
+Global Adservers/AppNexus/adnxs.com
+Global Adservers/AppNexus/appnexus.com
 Global Adservers/Adversal/adversal.com
 Global Adservers/Adverserve/adverserve.net
 Global Adservers/AdvertServe/advertserve.com
@@ -134,7 +139,15 @@ Global Adservers/Airpush/airpush.com
 Global Adservers/Altrooz/altrooz.com
 Global Adservers/Amaze/amazemobilemedia.com
 Global Adservers/Amazon Ads/amazon-adsystem.com
+Global Adservers/Amazon Ads/a2z.com
+Global Adservers/Amazon Ads/device-metrics-us.amazon.com
+Global Adservers/Amazon Ads/mads-eu.amazon.com
+Global Adservers/Amazon Ads/mads.amazon.com
 Global Adservers/Amobee/amobee.com
+Global Adservers/Amobee/tidaltv.com
+Global Adservers/Amobee/turn.com
+Global Adservers/Amobee/turn.com.akadns.net
+Global Adservers/Amobee/videologygroup.com
 Global Adservers/AnimeLab/asp.animelab.com
 Global Adservers/AppLift/cdn.applift.com
 Global Adservers/Appflood/appflood.com
@@ -145,6 +158,7 @@ Global Adservers/Appnext/appnext.com
 Global Adservers/Appodeal/appodeal.com
 Global Adservers/Apprupt/apprupt.com
 Global Adservers/Appsfire/yen.appsfire.net
+Global Adservers/Appsflyer/appsflyer.com
 Global Adservers/Atedra/atedra.com
 Global Adservers/Atlas/atdmt.com
 Global Adservers/Atlas/atlassbx.com
@@ -156,6 +170,8 @@ Global Adservers/BannerFlow/bannerflow.com
 Global Adservers/Bead/bead-ad.com
 Global Adservers/Bidvertiser/bidvertiser.com
 Global Adservers/Bidmachine.io/bidmachine.io
+Global Adservers/Bidswitch/bidswitch.com
+Global Adservers/Bidswitch/bidswitch.net
 Global Adservers/BlinkNewMedia/bnmla.com
 Global Adservers/Bounce Exchange/bounceexchange.com
 Global Adservers/Brightroll/brightroll.com
@@ -188,22 +204,27 @@ Global Adservers/Distroscale/c.jsrdn.com
 Global Adservers/Dotandad/dotandad.com
 Global Adservers/DoubleClick/doubleclick.ne.jp
 Global Adservers/DoubleClick/doubleclick.net
+Global Adservers/DoubleClick/doubleclick.com
+Global Adservers/DoubleClick/doubleclickbygoogle.com
+Global Adservers/DoubleClick/2mdn.net
 Global Adservers/DoubleVerify/doubleverify.com
 Global Adservers/Emediate/emediate.dk
 Global Adservers/Emediate/emediate.eu
 Global Adservers/Emediate/emediate.se
+Global Adservers/EMX/emxdgt.com
+Global Adservers/EMX/emxdigital.com
 Global Adservers/Epom Market/ecpmrocks.com
 Global Adservers/Epom Market/epom.com
 Global Adservers/Europacash/europacash.com
 Global Adservers/Exoclick/exoclick.com
 Global Adservers/ExoticAds/exoticads.com
 Global Adservers/Exponential/exponential.com
+Global Adservers/Exponential/tribalfusion.com
 Global Adservers/Fc2/affiliate.fc2.com
 Global Adservers/Fc2/aimg.fc2.com
 Global Adservers/FirstImpression/firstimpression.io
 Global Adservers/Flashtalking/flashtalking.com
 Global Adservers/Flipboard adserver/ad.flipboard.com
-Global Adservers/Flurry/flurry.com
 Global Adservers/Flymob/mobytrks.com
 Global Adservers/FreeWheel/fwmrm.net
 Global Adservers/Fyber/fyber.com
@@ -214,9 +235,14 @@ Global Adservers/Gameloft/578756.gameloft.com
 Global Adservers/Gameloft/igp06.gameloft.com
 Global Adservers/Gameloft/igpiphone.gameloft.com
 Global Adservers/Gameloft/ingameads.gameloft.com
-Global Adservers/Google AdSense/googleadservices.com
-Global Adservers/Google AdSense/googletagservices.com
-Global Adservers/Google AdSense/googlesyndication.com
+Global Adservers/Google Ads/googleadservices.com
+Global Adservers/Google Ads/googlesyndication.com
+Global Adservers/Google Ads/mail-ads.google.com
+Global Adservers/Google Ads/adsense.google.com
+Global Adservers/Google Ads/adservice.google.com
+Global Adservers/Google Ads/adservice.google.com.gt
+Global Adservers/Google Ads/adservice.google.co.za
+Global Adservers/Google Ads/app-measurement.com
 Global Adservers/Greystripe/greystripe.com
 Global Adservers/GumGum/gumgum.com
 Global Adservers/Gunggo/drnxs.com
@@ -388,6 +414,7 @@ Global Adservers/TabTale houseads/appshelf.ttpsdk.info
 Global Adservers/TabTale houseads/houseads.ttpsdk.info
 Global Adservers/Taboola/taboola.com
 Global Adservers/Taboola/taboolasyndication.com
+Global Adservers/Taboola/taboola.map.fastly.net
 Global Adservers/TapJoyAds/tapjoy.com
 Global Adservers/TapJoyAds/tapjoyads.com
 Global Adservers/Teads/teads.tv
@@ -409,7 +436,6 @@ Global Adservers/Transpera/transpera.com
 Global Adservers/Tremor/tremorhub.com
 Global Adservers/Tremor Video/scanscout.com
 Global Adservers/Tremor Video/tremormedia.com
-Global Adservers/Tribalfusion/tribalfusion.com
 Global Adservers/Triton Digital/andomedia.com
 Global Adservers/Turn/turn.com
 Global Adservers/UC Web/ucweb.com
@@ -429,7 +455,6 @@ Global Adservers/Unknown providers/readserver.net
 Global Adservers/Unknown providers/redintelligence.net
 Global Adservers/Unknown providers/redtram.com
 Global Adservers/Unknown providers/rtbpop.com
-Global Adservers/Unknown providers/s1.2mdn.net
 Global Adservers/Upsight/upsight-api.com
 Global Adservers/Value Commerce/valuecommerce.com
 Global Adservers/Valueclick/fastclick.net
@@ -784,7 +809,13 @@ Russian Adservers/tTARGET/ttarget.ru
 Russian Adservers/yadro.ru/yadro.ru
 
 Misc and tracking/Adjust.com/adjust.com
+Misc and tracking/Amplitude/amplitude.com
 Misc and tracking/Branch.io/branch.io
-Misc and tracking/ScorecardResearch/scorecardresearch.com
-Misc and tracking/Tenjin/tenjin.io
+Misc and tracking/ChurnZero/churnzero.net
+Misc and tracking/comScore/scorecardresearch.com
+Misc and tracking/comScore/comscore.com
+Misc and tracking/comScore/comscoreresearch.com
+Misc and tracking/Flurry/flurry.com
 Misc and tracking/Nielsen Online/imrworldwide.com
+Misc and tracking/Tenjin/tenjin.io
+
